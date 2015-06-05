@@ -1,3 +1,17 @@
+swiftly (2.05-2) lucid; urgency=low
+
+  * d0ac13a Update AUTHORS
+  * da2b5fc Add support for container level TempURLs
+  * abca798 Update AUTHORS
+  * a941352 Update directclient.py
+  * c3ebd6c Added documentation
+  * e5e6d34 Adding ability to providing custom object ring for DirectClient
+  * 7ccdbbf not sending proxy setting to clients
+  * a99fc8f Fixed sample conf dashes vs. underscores
+  * 5f82977 Moving to 2.05 development
+
+ -- David Goetz <david.goetz@rackspace.com>  Fri, 05 Jun 2015 15:13:00 +0000
+
 swiftly (2.04-1) lucid; urgency=low
 
    * See http://gholt.github.io/swiftly/2.04/changelog.html
